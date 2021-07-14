@@ -1,4 +1,4 @@
-package homework1;
+ package homework1;
 
 import java.util.Scanner;
 import java.util.Stack;
@@ -23,6 +23,6 @@ public class Palindrome {
 		System.out.println(s.equals(str));
 		return s.equals(str);
 		
-	}
+ 	}
 
-}
+} 
